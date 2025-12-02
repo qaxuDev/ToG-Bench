@@ -1,8 +1,8 @@
 
 # ToG-Bench: Task-Oriented Spatio-Temporal Grounding in Egocentric Videos
 
-**Official benchmark for ArXiv**:  
-ToG-Bench is the first benchmark for *task-oriented* spatio-temporal video grounding in egocentric videos. Instead of grounding objects based on descriptive language (e.g., “the red cup”), it requires reasoning about *intended actions* (e.g., “grab something to drink”).
+**Official benchmark for T-STVG**:  
+ToG-Bench is the first benchmark for *task-oriented* spatio-temporal video grounding in egocentric videos. Instead of grounding objects based on descriptive language (e.g., "the red cup"), it requires reasoning about *intended actions* (e.g., "Use the marker to write on the whiteboard", "Turn on what's near the refrigerator to imporve the air quality").
 
 ## 🌟 Key Features
 - **Task-oriented grounding**: Localize objects by agent intent, not appearance.
