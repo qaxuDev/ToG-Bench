@@ -24,8 +24,8 @@ If you use ToG-Bench in your research, please cite our CVPR 2026 paper:
 
 ```bibtex
 @inproceedings{xu2026togbench,
-  title     = {{ToG-Bench}: Task-Oriented Spatio-Temporal Grounding in Egocentric Videos},
+  title     = {ToG-Bench: Task-Oriented Spatio-Temporal Grounding in Egocentric Videos},
   author    = {Qi'ao Xu, Tianwen Qian, Yuqian Fu, Kailing Li, Yang Jiao, Jiacheng Zhang, Xiaoling Wang and Liang He},
-  booktitle = {ArXiv},
+  booktitle = {arXiv preprint arXiv:2512.03666},
   year      = {2025}
 }
